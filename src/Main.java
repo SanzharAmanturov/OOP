@@ -1,11 +1,10 @@
 public class Main {
     public static void main(String[] args) {
 
-     /*Car car = new Car ();
+     Car car = new Car ();
      car.brend = "Tesla";
      car.color = "Blue";
      car.year = 2023;
-
 
      Car car1 = new Car ();
      car1.brend = "Rolls Roys ";
@@ -13,7 +12,7 @@ public class Main {
      car1.year = 2023;
 
         System.out.println("My first car is " + car.brend + " color is " + car.color + " Year is " + car.year);
-        System.out.println("My secend car is " + car1.brend);*/
+        System.out.println("My secend car is " + car1.brend);
 
          Car tesla = new Car ();
 
